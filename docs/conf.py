@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PannelAppDB'
-author = [{name = "Frederick Mercer", email = "frederick.mercer@postgrad.manchester.ac.uk"}{name = "Abigail Haddon", email = "abigail.haddon@postgrad.manchester.ac.uk"}{name = "Amy Grimwood", email = "amy.grimwood@postgrad.manchester.ac.uk"}]
+author = "Frederick Mercer, Abigail Haddon, Amy Grimwood"
 
 release = '0.1'
 version = '0.1.0'
